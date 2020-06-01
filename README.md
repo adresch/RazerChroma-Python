@@ -6,5 +6,6 @@ Code is still garbage for now ¯\_(ツ)_/¯
 
 Inspired By [Chroma-SDK/python-SDK](https://github.com/chroma-sdk/chroma-python"Chroma-SDK/python-SDK Github")
 
-#Generate Chroma Animation
+
+# Generate Chroma Animation
 To generate .chroma files containing animations for CHroma devices, take a look at [Razer Chroma editor](https://github.com/razerofficial/CChromaEditor"Razer Chroma editor Github")
