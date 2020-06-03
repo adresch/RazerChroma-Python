@@ -18,7 +18,7 @@ To generate .chroma files containing animations for Chroma devices, take a look 
 ## Usage
 
 ```python
-from ChromaPythonApp import *
+from chromapythonapp import *
 ```
 
 Check Tests folder for more examples
